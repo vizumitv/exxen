@@ -4,11 +4,11 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXTINF:10.000000,
-vizumiexxen_000.ts
+https://github.com/vizumitv/exxen/raw/refs/heads/main/vizumiexxen_000.ts
 #EXTINF:10.000000,
-vizumiexxen_001.ts
+https://github.com/vizumitv/exxen/raw/refs/heads/main/vizumiexxen_001.ts
 #EXTINF:10.000000,
-vizumiexxen_002.ts
+https://github.com/vizumitv/exxen/raw/refs/heads/main/vizumiexxen_002.ts
 #EXTINF:6.433333,
-vizumiexxen_003.ts
+https://github.com/vizumitv/exxen/raw/refs/heads/main/vizumiexxen_003.ts
 #EXT-X-ENDLIST
